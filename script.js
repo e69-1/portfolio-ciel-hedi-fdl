@@ -8,3 +8,6 @@ titrePrincipal.addEventListener('click', () => {
 });
 
 titrePrincipal.Vous avez cliqué sur le titre ! = "Nouveau Titre !";
+
+ const themeButton = ('#themeButton') 
+ 
